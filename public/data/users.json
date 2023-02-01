@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "name": "suriya",
+      "dob": "29-11-1988",
+      "age": "32",
+      "address": "London",
+      "gender": "Female",
+      "preference": {
+        "size": ["M", "L"],
+        "categories": ["dresses", "shirts"],
+        "avatar": "/images/unicorn.jpg",
+        "hpContent": "Welcome dear unicorn. There is no limit to learn. Every day, every step, we are learning, exploring and finding what you’re passionate and interested about - Suriya"
+      }
+    },
+    {
+      "name": "stanley",
+      "dob": "29-11-1988",
+      "age": "32",
+      "address": "London",
+      "gender": "Male",
+      "preference": {
+        "size": ["M", "L"],
+        "categories": ["dresses", "shirts"],
+        "avatar": "/images/mrBean.jpg",
+        "hpContent": "Hello Mr Bean!!"
+      }
+    },
+    {
+      "name": "simon",
+      "dob": "29-11-1988",
+      "age": "32",
+      "address": "London",
+      "gender": "Male",
+      "preference": {
+        "size": ["M", "L"],
+        "categories": ["tops", "shirts"],
+        "avatar": "/images/percypig.jpg",
+        "hpContent": "Hello Mr Percy pig"
+      }
+    },
+    {
+      "name": "dev",
+      "dob": "29-11-1988",
+      "age": "32",
+      "address": "London",
+      "gender": "Both",
+      "preference": {
+        "size": ["M", "L"],
+        "categories": ["dresses", "shirts", "unisex"],
+        "avatar": "/images/peterpan.jpg",
+        "hpContent": "Hello Mr Peter pan, Stop playing and help me find my shadow! Shadow … shadow …"
+      }
+    }
+  ]
+}

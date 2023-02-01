@@ -1,0 +1,45 @@
+.categories {
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    width: 60%;
+    padding: 20px;
+    background-color:  rgba(230, 125, 69, 0.988);
+    font-size: 16px;
+    border-radius: 16px;
+}
+
+.sizes {
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    width: 60%;
+    padding: 20px;
+    background-color: rgba(230, 125, 69, 0.988);
+    font-size: 16px;
+    border-radius: 16px;
+}
+
+.preferrence {
+    background: url('../public/images/background-image.jpeg') no-repeat center center;
+    background-size: cover;
+    color: beige;
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: 600;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+      Bitstream Vera Sans Mono, Courier New, monospace;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.gender {
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    width: 60%;
+    padding: 20px;
+    background-color: rgba(230, 125, 69, 0.988);
+    border-radius: 16px;
+    font-size: 16px
+}
