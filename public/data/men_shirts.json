@@ -4,7 +4,6 @@
     "products": [
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Casual Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -27,7 +26,6 @@
         },
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Casual Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -73,7 +71,6 @@
         },
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -96,7 +93,6 @@
         },
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -144,7 +140,6 @@
         },
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -167,7 +162,6 @@
         },
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -190,7 +184,6 @@
         },
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -213,7 +206,6 @@
         },
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -236,7 +228,6 @@
         },
         {
             "currency": "GBP",
-            "brand": "M&S Collection",
             "productDefinition": "Shirts",
             "outOfStock": false,
             "productType": "Clothing",
@@ -255,11 +246,10 @@
                 "XXL"
             ],
             "stock": "26",
-            "description": "This vibrant linen-rich Hawaiian shirt will add a tropical touch to your wardrobe. Collared regular fit design with a classic button-through fastening. Easy-to-iron fabric with a moisture-wicking finish for all-day comfort. M&S Collection: easy-to-wear wardrobe staples that combine classic and contemporary styles. Made with sustainably sourced viscose."
+            "description": "This vibrant linen-rich Hawaiian shirt will add a tropical touch to your wardrobe. Collared regular fit design with a classic button-through fastening. Easy-to-iron fabric with a moisture-wicking finish for all-day comfort."
         },
         {
             "currency": "GBP",
-            "brand": "AUTOGRAPH",
             "productDefinition": "Shirts",
             "outOfStock": false,
             "productType": "Clothing",
